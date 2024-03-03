@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.18.3",
+    "mongodb": "^6.4.0",
+    "mongoose": "^8.2.0"
+  },
+  "name": "just-rough",
+  "version": "1.0.0",
+  "description": "node app that connects to mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Megha B Prathap",
+  "license": "ISC"
+}
